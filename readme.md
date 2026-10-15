@@ -41,3 +41,6 @@ https://learn.adafruit.com/adafruit-circuit-playground-bluefruit/getting-started
 
 Product examples
 https://learn.adafruit.com/products/4333/guides
+
+
+<p align="center"><img src="https://github.com/karlmortensen/Hackathon2026/blob/develop/housekeeping/poster.png"></p>
